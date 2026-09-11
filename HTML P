@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mes Patrio - Inicio</title>
+</head>
+<body bgcolor="#f4f4f4" text="#333333">
+
+    <!-- Encabezado / Banner Patrio -->
+    <table width="100%" bgcolor="#006847" cellpadding="20" cellspacing="0" border="0">
+        <tr>
+            <td align="center">
+                <font face="Arial, sans-serif" color="#ffffff" size="6">
+                    <b>¡Bienvenid@ al Mes Patrio de Septiembre!</b>
+                </font>
+                <br><br>
+                <font face="Arial, sans-serif" color="#ffffff" size="3">
+                    Lira Molina Dylan Daniel 5 J
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- Menú de Navegación con Botones HTML -->
+    <table align="center" border="0" cellpadding="10" cellspacing="5">
+        <tr>
+            <td bgcolor="#006847" align="center">
+                <a href="index.html">
+                    <font face="Arial, sans-serif" color="#ffffff" size="4"><b>Inicio / Cronología</b></font>
+                </a>
+            </td>
+            <td bgcolor="#ce1126" align="center">
+                <a href="personajes.html">
+                    <font face="Arial, sans-serif" color="#ffffff" size="4"><b>Personajes Ilustres</b></font>
+                </a>
+            </td>
+            <td bgcolor="#006847" align="center">
+                <a href="sabias_que.html">
+                    <font face="Arial, sans-serif" color="#ffffff" size="4"><b>¿Sabías que?</b></font>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <hr size="4" color="#ce1126" width="90%">
+    <br>
+
+    <!-- Sección: Cronología de Fechas Importantes -->
+    <table width="85%" align="center" bgcolor="#ffffff" border="2" bordercolor="#006847" cellpadding="20" cellspacing="0">
+        <tr>
+            <td align="center" bgcolor="#006847">
+                <font face="Arial, sans-serif" color="#ffffff" size="5">
+                    <b>Cronología de Fechas Importantes</b>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <font face="Arial, sans-serif" size="3">
+                    <ul>
+                        <li>
+                            <b>Noche de la Conspiración de Querétaro</b><br>
+                            <i>13 de septiembre de 1810</i><br>
+                            La conspiración independentista organizada por Josefa Ortíz de Domínguez y el corregidor Miguel Domínguez fue descubierta por las autoridades virreinales, lo que aceleró los planes de levantamiento.
+                        </li>
+                        <br>
+                        <li>
+                            <b>Defensa del Castillo de Chapultepec</b><br>
+                            <i>13 de septiembre de 1847</i><br>
+                            Batalla durante la intervención estadounidense en México donde destacaron los cadetes del Colegio Militar, conocidos tradicionalmente como los Niños Héroes.
+                        </li>
+                        <br>
+                        <li>
+                            <b>El Grito de Dolores</b><br>
+                            <i>15 - 16 de septiembre de 1810</i><br>
+                            En la madrugada del 16 de septiembre, el cura Miguel Hidalgo y Costilla tocó las campanas de la parroquia de Dolores para convocar al pueblo a levantarse en armas contra el dominio español.
+                        </li>
+                        <br>
+                        <li>
+                            <b>Entrada del Ejército Trigarante</b><br>
+                            <i>27 de septiembre de 1821</i><br>
+                            Agustín de Iturbide y Vicente Guerrero entraron triunfantes a la Ciudad de México al mando del Ejército Trigarante, consumando formalmente la Independencia de México tras 11 años de lucha.
+                        </li>
+                        <br>
+                        <li>
+                            <b>Firma del Acta de Independencia</b><br>
+                            <i>28 de septiembre de 1821</i><br>
+                            Se redactó y firmó el Acta de Independencia del Imperio Mexicano por la Junta Provisional Gubernativa.
+                        </li>
+                    </ul>
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- Botón de acción para pasar a la siguiente página -->
+    <table align="center" border="0" cellspacing="0" cellpadding="10">
+        <tr>
+            <td bgcolor="#ce1126" align="center">
+                <a href="personajes.html">
+                    <font face="Arial, sans-serif" color="#ffffff" size="4">
+                        <b>Presiona aquí para ir a la sección "Personajes Ilustres" &rarr;</b>
+                    </font>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- Pie de página -->
+    <table width="100%" bgcolor="#333333" cellpadding="10" cellspacing="0">
+        <tr>
+            <td align="center">
+                <font face="Arial, sans-serif" color="#ffffff" size="2">
+                    Lira Molina Dylan Daniel 5 J - Proyecto Mes Patrio HTML NATIVO
+                </font>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
